@@ -1,5 +1,5 @@
 {
-  "name": "trello-copy",
+  "name": "package.json",
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
@@ -111,5 +111,16 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "description": "[![https://gyazo.com/b78323715f338d46b26caec39711385e](https://i.gyazo.com/b78323715f338d46b26caec39711385e.gif)](https://gyazo.com/b78323715f338d46b26caec39711385e)\r ## [Demo Link](https://trello-copy-ddiaorohmd.now.sh)",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruelblade/simple-trello.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/cruelblade/simple-trello/issues"
+  },
+  "homepage": "https://github.com/cruelblade/simple-trello#readme"
 }
